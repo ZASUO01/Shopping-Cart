@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart/static/css/main.5610c877.chunk.css",
+    "main.js": "/Shopping-Cart/static/js/main.a71f6ebe.chunk.js",
+    "main.js.map": "/Shopping-Cart/static/js/main.a71f6ebe.chunk.js.map",
+    "runtime-main.js": "/Shopping-Cart/static/js/runtime-main.06ede501.js",
+    "runtime-main.js.map": "/Shopping-Cart/static/js/runtime-main.06ede501.js.map",
+    "static/js/2.44fb5c4e.chunk.js": "/Shopping-Cart/static/js/2.44fb5c4e.chunk.js",
+    "static/js/2.44fb5c4e.chunk.js.map": "/Shopping-Cart/static/js/2.44fb5c4e.chunk.js.map",
+    "index.html": "/Shopping-Cart/index.html",
+    "static/css/main.5610c877.chunk.css.map": "/Shopping-Cart/static/css/main.5610c877.chunk.css.map",
+    "static/js/2.44fb5c4e.chunk.js.LICENSE.txt": "/Shopping-Cart/static/js/2.44fb5c4e.chunk.js.LICENSE.txt",
+    "static/media/about.3ad6b8b7.jpg": "/Shopping-Cart/static/media/about.3ad6b8b7.jpg",
+    "static/media/background.2abe1828.jpg": "/Shopping-Cart/static/media/background.2abe1828.jpg",
+    "static/media/dadario-10.1f00df4a.jpg": "/Shopping-Cart/static/media/dadario-10.1f00df4a.jpg",
+    "static/media/dadario-9.08d7e523.jpg": "/Shopping-Cart/static/media/dadario-9.08d7e523.jpg",
+    "static/media/dinkys11.15f0fa57.png": "/Shopping-Cart/static/media/dinkys11.15f0fa57.png",
+    "static/media/gibson-ep.259c7560.png": "/Shopping-Cart/static/media/gibson-ep.259c7560.png",
+    "static/media/gibson-lp.8092b947.png": "/Shopping-Cart/static/media/gibson-lp.8092b947.png",
+    "static/media/gibson-sg.aba3db41.png": "/Shopping-Cart/static/media/gibson-sg.aba3db41.png",
+    "static/media/ibanez-mk.8f901582.png": "/Shopping-Cart/static/media/ibanez-mk.8f901582.png",
+    "static/media/ibanez-rg.b2056477.png": "/Shopping-Cart/static/media/ibanez-rg.b2056477.png",
+    "static/media/ibanez-sa.5bbf7665.png": "/Shopping-Cart/static/media/ibanez-sa.5bbf7665.png",
+    "static/media/marshal-sc.4d0c05cd.png": "/Shopping-Cart/static/media/marshal-sc.4d0c05cd.png",
+    "static/media/orange-rt.2049d092.png": "/Shopping-Cart/static/media/orange-rt.2049d092.png",
+    "static/media/orange-tm.4227c35e.png": "/Shopping-Cart/static/media/orange-tm.4227c35e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06ede501.js",
+    "static/js/2.44fb5c4e.chunk.js",
+    "static/css/main.5610c877.chunk.css",
+    "static/js/main.a71f6ebe.chunk.js"
+  ]
+}
